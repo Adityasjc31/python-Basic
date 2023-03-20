@@ -1,0 +1,39 @@
+
+			PYTHON PROGRAMMING Assignment (KCS-453)
+
+1)  Write a python program that takes in two integer input from user and print 
+    sum of those numbers.
+2)  Write a python program that takes in two integer input from user and print 
+    difference of those numbers.
+3)  Write a python program that takes in two integer input from user and print 
+    product of those numbers.
+4)  Write a python program that takes in two integer input from user and print 
+    division of those numbers.
+5)  Write a python program that takes in two integer input from user and print 
+    modulo division of those numbers.
+6)  Write a python program to convert the temperature from Centigrade to Fahrenheit.
+7)  Write a python program to convert the temperature from Fahrenheit to Centigrade.
+8)  Write a python program to find the area and perimeter of rectangle.
+9)  Write a python program to find the area and circumference of a circle.
+10) Write a python program to find the volume of cylinder and cone.
+11) Write a python program to find the area of a triangle whose sides are given.
+12) Write a python program to swap two numbers using third variable.
+13) Write a python program to swap two numbers without using third variable.
+14) Write a python program to find the roots of a quadratic equation.
+15) Write a python program to check whether the given number is even or odd.
+16) Write a python program to find the largest of two numbers.
+17) Write a python program to check whether a year is leap year or not.
+18) Write a python program to find the largest of three numbers.
+19) A company decides to give bonus to all its employees on Diwali. A 5% bonus on 
+    salary is given to the male worker and 10% bonus on salary to the female 
+    workers. WAP to enter the salary of the employee and gender of the employee. 
+    If the salary of the employee is less than Rs. 10,000 then the employee gets an 
+    extra 2% bonus on salary. Calculate the bonus that has to be given to the 
+    employee and display the salary that the employee will get.
+20) WAP in python to enter the marks of a student in 4 subjects. Then calculate the
+    total and aggregate and also display the grade obtained by the student. If the
+    student scores an aggregate >= 75%, then the grade is distinction.
+        If aggregate is 60>= and <75, then grade = 1st division
+        If aggregate is 50>= and <60, then grade = 2nd division
+        If aggregate is 40>= and <50, then grade = 3rd division
+        else grade is fail.
